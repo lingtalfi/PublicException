@@ -1,7 +1,7 @@
 <?php
 
 
-namespace PublicException;
+namespace Ling\PublicException;
 
 /**
  * A public exception is an exception which message is intended to be displayed in the gui for the user.
